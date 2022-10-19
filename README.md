@@ -1,2 +1,2 @@
 ### Hi there, I'm Dmitry 👋 (but you can call me Dima)
-Currently a Middle Android Engineer at [OZON](https://corp.ozon.com/).
+Currently a Senior Android Engineer at [inDrive](https://indrive.com/en/home).
